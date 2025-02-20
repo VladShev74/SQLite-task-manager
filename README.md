@@ -61,7 +61,7 @@ python fetch_data.py
 python update_data.py
 ```
 
-- Delete a Task:
+- Delete a Task and Category (to ensure the correct handling of deleted category in tasks table):
 
 ```bash
 python delete_data.py
