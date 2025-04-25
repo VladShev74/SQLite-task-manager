@@ -31,8 +31,8 @@ Here's the database structure of the project:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sqlite-task-manager.git
-cd sqlite-task-manager
+git clone https://github.com/VladShev74/SQLite-task-manager.git
+cd SQLite-task-manager
 ```
 
 2. Create Database:
